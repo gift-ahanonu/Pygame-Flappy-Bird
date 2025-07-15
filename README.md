@@ -57,13 +57,14 @@ python flappybird-.py
 
 ## Screenshots
 
-> <img width="255" height="474" alt="image" src="https://github.com/user-attachments/assets/d0d9ac0b-64bd-4983-bb62-3082b68210a0" />
+<img width="255" height="474" alt="image" src="https://github.com/user-attachments/assets/d0d9ac0b-64bd-4983-bb62-3082b68210a0" />
 <img width="168" height="312" alt="image" src="https://github.com/user-attachments/assets/070d521e-d064-44c4-a3f0-8672f208bdca" />
+
 ---
 
 ##  Author
 
-**Gift Onyinyechi Ahanonu**
+**Gift Ahanonu**
 📧 [giftahanonu@outlook.com](mailto:giftahanonu@outlook.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/giftahanonu)
 
@@ -74,4 +75,3 @@ python flappybird-.py
 This project is for **educational purposes** and not affiliated with the original Flappy Bird game or its creators.
 
 ```
-
